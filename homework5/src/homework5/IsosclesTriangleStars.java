@@ -2,7 +2,7 @@ package homework5;
 
 public class IsosclesTriangleStars {
 	void A03() {
-		System.out.print("이등변삼각형의 높이 입력 : ");
+		System.out.print("이등변삼각형 높이를 입력 : ");
 		String input = new ExamForWhileStars().input();
 		int inputNum = Integer.parseInt(input);
 		for (int i = 0; i < inputNum; i++) {
