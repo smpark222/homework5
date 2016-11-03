@@ -2,7 +2,7 @@ package homework5;
 
 public class DiamondStars {
 	void A04() {
-		System.out.print("다이아몬드의 크기 입력 : ");
+		System.out.print("다이아몬드의 크기입력 : ");
 		String input = new ExamForWhileStars().input();
 		int inputNum = Integer.parseInt(input);
 
